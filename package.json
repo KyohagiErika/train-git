@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KyohagiErika/train-git/issues"
   },
-  "homepage": "https://github.com/KyohagiErika/train-git#readme"
+  "homepage": "https://github.com/KyohagiErika/train-git#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
