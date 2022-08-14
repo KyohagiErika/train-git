@@ -7,3 +7,7 @@ function sum(a, b) {
 function multiply(a, b) {
     // a * b = a + a + ... (b times)
 }
+
+function a1() {
+
+}
